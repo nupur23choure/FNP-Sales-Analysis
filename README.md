@@ -6,7 +6,7 @@ An end-to-end Excel project: cleaning messy order data with **Power Query**, mod
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](FNP_Dashboard.png)
 
 ---
 
