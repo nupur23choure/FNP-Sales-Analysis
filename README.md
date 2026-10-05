@@ -1,4 +1,4 @@
-**Ferns & Petals (FNP) Sales Analysis Dashboard**
+##**Ferns & Petals (FNP) Sales Analysis Dashboard**<br>
 An end-to-end Excel project: cleaning messy order data with Power Query, modelling it with the Data Model, and building an interactive sales dashboard with Pivot Tables, Pivot Charts and Slicers.
  
 ________________________________________
